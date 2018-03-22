@@ -1,5 +1,8 @@
 com\cdc\mitrais\controller\BeanProperties.class
+com\cdc\mitrais\controller\Conditionals.class
 com\cdc\mitrais\controller\ScopedVars.class
 com\cdc\mitrais\model\Employee.class
+com\cdc\mitrais\model\SalesBean.class
 com\cdc\mitrais\model\Company.class
+com\cdc\mitrais\controller\Collections.class
 com\cdc\mitrais\model\Name.class
